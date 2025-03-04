@@ -1,12 +1,11 @@
 ## T-ORG-600
-Analyse de l'organisation d'une entreprise afin d'identifier son fonctionnement, ses forces, ses faiblesses et proposer des améliorations structurelles.
-
+Analyse de l'organisation d'une entreprise afin d'identifier son fonctionnement, ses forces, ses faiblesses et proposer des améliorations structurelles.  
+  
 ### Quelle entreprise choisie
-Gaspard: BH-Technologie
-Ryan: Safran
-Gino: Epitech
-
-
+Gaspard: BH-Technologie  
+Ryan: Safran  
+Gino: Epitech  
+  
 ### Gestion Avancement du Projet
 | Avancement | Tâches |
 | :--------- |:------ |
