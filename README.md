@@ -1,11 +1,51 @@
 ## T-ORG-600
-Analyse de l'organisation d'une entreprise afin d'identifier son fonctionnement, ses forces, ses faiblesses et proposer des améliorations structurelles.  
+**Analyse de l'organisation d'une entreprise afin d'identifier son fonctionnement, ses forces, ses faiblesses et proposer des améliorations structurelles.**  
   
 ### Quelle entreprise choisie
 Gaspard: BH-Technologie  
 Ryan: Safran  
 Gino: Epitech  
   
+### Follow Up 1 - 04.03.2025
+
+**IMPORTANT en premier :**  
+chercher les defs:  
+Comment as ton défini ce qu’on va analyser  
+Entreprise / structure / organisation  
+
+Théorie des organisations
+-> presenter une théorie / un axe
+
+différents types de structures
+
+
+
+Individuel:
+organigramme(s) entreprise / service
+emettre une hypothèse(s) :
+-> « Je pense que mon entreprise à ce type d’organisation / à tel structure » ex: hiérarchique / matriciel 
+
+
+Comment recueillir les données:
+- interviews, entretiens
+- **questionnaires**
+- scrapping
+
+Quest ce que vous cherchez ? Quelles sont les données dont vous allez avoir besoin ?
+Pensez toujours à la théorie, vos hypothèses, aux limites et votre méthodologie !
+
+
+En groupe:
+méthodologie -> comment chacun va s'organiser pour récolter des données. Exemple: formulaire pour répondre à l'hypothèse.
+outil(s) -> script++ ou excel si complexe avec script
+limite de excel pour faire de l'analyse de données statistiques
+
+
+Tout sur GIT.
+
+
+
+
 ### Gestion Avancement du Projet
 | Avancement | Tâches |
 | :--------- |:------ |
