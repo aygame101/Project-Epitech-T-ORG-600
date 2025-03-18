@@ -2,7 +2,7 @@
 **Analyse de l'organisation d'une entreprise afin d'identifier son fonctionnement, ses forces, ses faiblesses et proposer des améliorations structurelles.**  
   
 ### Quelle entreprise choisie
-Gaspard: BH-Technologie // France Travail
+Gaspard: BH-Technologie // France Travail  
 Ryan: Safran  
 Gino: Epitech  
   
