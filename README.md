@@ -41,6 +41,9 @@ Comparer les données pas les résultats.
 Tout sur GIT.
 
 
+### Les 4 objectifs principaux:
+
+
 
 
 ### Gestion Avancement du Projet
