@@ -2,7 +2,7 @@
 **Analyse de l'organisation d'une entreprise afin d'identifier son fonctionnement, ses forces, ses faiblesses et proposer des améliorations structurelles.**  
   
 ### Quelle entreprise choisie
-Gaspard: BH-Technologie  
+Gaspard: BH-Technologie // France Travail
 Ryan: Safran  
 Gino: Epitech  
   
@@ -14,15 +14,12 @@ Comment as ton défini ce qu’on va analyser
 Entreprise / structure / organisation  
 
 Théorie des organisations
--> presenter une théorie / un axe
-
-différents types de structures
-
+-> presenter une théorie / un axe à propos du type de structure
 
 
 Individuel:
-organigramme(s) entreprise / service
-emettre une hypothèse(s) :
+1. Organigramme(s) entreprise / service
+2. Emettre une hypothèse(s) :
 -> « Je pense que mon entreprise à ce type d’organisation / à tel structure » ex: hiérarchique / matriciel 
 
 
@@ -39,7 +36,7 @@ En groupe:
 méthodologie -> comment chacun va s'organiser pour récolter des données. Exemple: formulaire pour répondre à l'hypothèse.
 outil(s) -> script++ ou excel si complexe avec script
 limite de excel pour faire de l'analyse de données statistiques
-
+Comparer les données pas les résultats.
 
 Tout sur GIT.
 
