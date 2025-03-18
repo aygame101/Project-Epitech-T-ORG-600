@@ -10,7 +10,7 @@ Gino: Epitech
 
 **IMPORTANT en premier :**  
 chercher les defs:  
-Comment as ton défini ce qu’on va analyser  
+Comment as ton défini ce qu’on va analyser:  
 Entreprise / structure / organisation  
 
 Théorie des organisations
