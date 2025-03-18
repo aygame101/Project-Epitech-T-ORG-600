@@ -42,6 +42,7 @@ Tout sur GIT.
 
 
 ### Les 4 objectifs principaux:
+![objectifs](capture.png)
 
 
 
