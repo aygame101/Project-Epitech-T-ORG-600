@@ -6,6 +6,11 @@ Gaspard: BH-Technologie // France Travail
 Ryan: Safran  
 Gino: Epitech  
   
+
+### Les 4 objectifs principaux:
+![objectifs](capture1.png)
+  
+  
 ### Follow Up 1 - 04.03.2025
 
 **IMPORTANT en premier :**  
@@ -41,8 +46,6 @@ Comparer les données pas les résultats.
 Tout sur GIT.
 
 
-### Les 4 objectifs principaux:
-![objectifs](capture.png)
 
 
 
