@@ -7,7 +7,7 @@ D'après une analyse de l'organigramme de Safran Aircraft Engines (SAE) se conce
 
 
 ### Gino:
-
+#### Epitech : Décentralisé
 
 
 
