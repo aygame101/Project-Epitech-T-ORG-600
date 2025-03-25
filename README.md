@@ -14,7 +14,7 @@ Gino: Epitech
 ### Follow Up 1 - 04.03.2025
 
 **IMPORTANT en premier :**  
-chercher les defs:  
+Chercher les definitions:  
 Comment as ton défini ce qu’on va analyser:  
 Entreprise / structure / organisation  
 

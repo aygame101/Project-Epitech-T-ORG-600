@@ -7,7 +7,10 @@ D'après une analyse de l'organigramme de Safran Aircraft Engines (SAE) se conce
 #### France Travail : 
 
 ### Gino:
-#### Epitech : Décentralisé
+#### Epitech 
+##### Type d'entreprise : Association à but non lucratif
+##### Type d'organisation : Décentralisé
+##### Taille de l'organisation : ETI
 
 
 
