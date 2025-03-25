@@ -4,7 +4,7 @@
 D'après une analyse de l'organigramme de Safran Aircraft Engines (SAE) se concentrant sur le département de la Direction des Systèmes d'Information (DSI), se situe entre une organisation "Centralisée" et "Décentralisée" dans le sens ou chaque département à une certaine autonomie et est plus ou moins libre d'innover, cependant certaines décisions sont soumises à une approbation par la hiérarchie qui peut parfois durer un certain temps en raison de nombre de "oui" requis pour valider et mettre en place une idée. Par ailleurs les différentes décisions sont prises à uen échelle locale mais peuvent dans certains cas s'étendre au national. Les communications entre les différents départements composant la DSI sont à la fois horizontale, dans le sens où chaque département communique en tre eux mais dans certains cas une communication verticale est de mise selon l'impact de la décision.
 
 ### Gaspard:
-
+#### France Travail : 
 
 ### Gino:
 #### Epitech : Décentralisé
