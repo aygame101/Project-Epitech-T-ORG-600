@@ -56,6 +56,7 @@ Tout sur GIT.
 🟢 la personne m'a dit qu'elle a répondu
 | Personnne | avancement | 
 | :--------- |:------ |
+| Emmanuel | 🟠 |
 | Lucile | 🟠 |
 | Thomas | 🟠 |
 | Magali | 🟠 |
