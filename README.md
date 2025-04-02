@@ -53,6 +53,7 @@ Tout sur GIT.
 #### Process d'envoie / réponse
 🔴 Pas envoyé  
 🟠 envoyé, en attente de réponse  
+🟡 m'a répondu sur teams pour m'informer qu'il/elle va répondre
 🟢 la personne m'a dit qu'elle a répondu
 | Personnne | avancement | 
 | :--------- |:------ |
@@ -70,7 +71,7 @@ Tout sur GIT.
 | Sixtine | 🟠 |
 | Guillaume | 🟠 |
 | Patrick | 🟠 |
-| Corinne | 🟠 |
+| Corinne | 🟡 |
 | Ambre-iliana | 🟠 |
 | Sarah | 🟠 |
 | Clara | 🟠 |
