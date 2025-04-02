@@ -59,7 +59,7 @@ Tout sur GIT.
 | Personnne | avancement | 
 | :--------- |:------ |
 | Emmanuel | 🟣 |
-| Lucile | 🟠 |
+| Lucile | 🟣 |
 | Thomas | 🟠 |
 | Magali | 🟣 |
 | Alexis | 🟣 |
