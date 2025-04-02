@@ -48,6 +48,30 @@ Tout sur GIT.
 
 
 
+### Formulaire
+🟢 Done
+#### Process d'envoie / réponse
+🔴 Pas envoyé  
+🟠 envoyé, en attente de réponse  
+🟢 la personne m'a dit qu'elle a répondu  
+| :--------- |:------ |
+| Lucile | 🔴 |
+| Thomas | 🔴 |
+| Magali | 🔴 |
+| Alexis | 🔴 |
+| Romain | 🔴 |
+| Camy | 🔴 |
+| Mélinda | 🔴 |
+| Antoine | 🔴 |
+| Matthieu | 🔴 |
+| Karine | 🔴 |
+| Sixtine | 🔴 |
+| Guillaume | 🔴 |
+| Patrick | 🔴 |
+| Corinne | 🔴 |
+| Ambre-Iliana | 🔴 |
+| Sarah | 🔴 |
+| Clara | 🔴 |
 
 
 ### Gestion Avancement du Projet
@@ -56,8 +80,8 @@ Tout sur GIT.
 | 🟠 In progress | Les données recueillies permettent de visualiser l'organisation de l'entreprise |
 | 🔴 To do | La source des données est citée ET fiable (provenant des RH ou de la direction de l'entreprise). |
 | 🔴 To do | Les étudiants ont été proactifs dans la recherche des données |
-| 🔴 To do | Les élèves produisent un organigramme de la direction de leur entreprise. |
-| 🔴 To do | Les élèves produisent un organigramme des départements de leur entreprise (au moins les plus proches) et de leurs interactions. |
+| 🟢 Done | Les élèves produisent un organigramme de la direction de leur entreprise. |
+| 🟢 Done | Les élèves produisent un organigramme des départements de leur entreprise (au moins les plus proches) et de leurs interactions. |
 | 🔴 To do | Les élèves produisent un organigramme de leur équipe et des liens entre chaque membre. |
 | 🔴 To do | Une documentation expliquant le fonctionnement des différentes procédures de l'entreprise (onboarding, réunions, workflow, etc.) |
 | 🔴 To do | Les étudiants sont confrontés à plusieurs critères, tels que le rôle, la hiérarchie, le travail d'équipe, ... |

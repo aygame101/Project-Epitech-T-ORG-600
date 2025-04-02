@@ -8,7 +8,7 @@ D'après une analyse de l'organigramme de Safran Aircraft Engines (SAE) se conce
 
 ### Gino:
 #### Epitech 
-##### Type d'entreprise : Association à but non lucratif
+##### Type d'entreprise : Association déclarée
 ##### Type d'organisation : Décentralisé
 ##### Taille de l'organisation : ETI
 
