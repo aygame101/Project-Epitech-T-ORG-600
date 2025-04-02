@@ -55,16 +55,17 @@ Tout sur GIT.
 🟠 envoyé, en attente de réponse  
 🟡 m'a répondu sur teams pour m'informer qu'il/elle va répondre
 🟢 la personne m'a qu'elle a répondu (+ une augmentation du nombre de réponse dans le GDocs)
+🟣 m'a laissé en vu
 | Personnne | avancement | 
 | :--------- |:------ |
-| Emmanuel | 🟠 |
+| Emmanuel | 🟣 |
 | Lucile | 🟠 |
 | Thomas | 🟠 |
-| Magali | 🟠 |
-| Alexis | 🟠 |
-| Romain | 🟠 |
-| Camy | 🟠 |
-| Mélinda | 🟠 |
+| Magali | 🟣 |
+| Alexis | 🟣 |
+| Romain | 🟣 |
+| Camy | 🟣 |
+| Mélinda | 🟣 |
 | Antoine | 🟠 |
 | Matthieu | 🟠 |
 | Karine | 🟠 |
@@ -73,7 +74,7 @@ Tout sur GIT.
 | Patrick | 🟠 |
 | Corinne | 🟢 |
 | Ambre-iliana | 🟢 |
-| Sarah | 🟠 |
+| Sarah | 🟣 |
 | Clara | 🟢 |
 
 
