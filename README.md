@@ -56,23 +56,23 @@ Tout sur GIT.
 🟢 la personne m'a dit qu'elle a répondu
 | Personnne | avancement | 
 | :--------- |:------ |
-| Lucile | 🔴 |
-| Thomas | 🔴 |
-| Magali | 🔴 |
-| Alexis | 🔴 |
-| Romain | 🔴 |
-| Camy | 🔴 |
-| Mélinda | 🔴 |
-| Antoine | 🔴 |
-| Matthieu | 🔴 |
-| Karine | 🔴 |
-| Sixtine | 🔴 |
-| Guillaume | 🔴 |
-| Patrick | 🔴 |
-| Corinne | 🔴 |
-| Ambre-Iliana | 🔴 |
-| Sarah | 🔴 |
-| Clara | 🔴 |
+| Lucile | 🟠 |
+| Thomas | 🟠 |
+| Magali | 🟠 |
+| Alexis | 🟠 |
+| Romain | 🟠 |
+| Camy | 🟠 |
+| Mélinda | 🟠 |
+| Antoine | 🟠 |
+| Matthieu | 🟠 |
+| Karine | 🟠 |
+| Sixtine | 🟠 |
+| Guillaume | 🟠 |
+| Patrick | 🟠 |
+| Corinne | 🟠 |
+| Ambre-iliana | 🟠 |
+| Sarah | 🟠 |
+| Clara | 🟠 |
 
 
 ### Gestion Avancement du Projet
