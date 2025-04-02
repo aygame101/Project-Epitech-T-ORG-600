@@ -54,7 +54,7 @@ Tout sur GIT.
 🔴 Pas envoyé  
 🟠 envoyé, en attente de réponse  
 🟡 m'a répondu sur teams pour m'informer qu'il/elle va répondre
-🟢 la personne a répondu
+🟢 la personne m'a qu'elle a répondu (+ une augmentation du nombre de réponse dans le GDocs)
 | Personnne | avancement | 
 | :--------- |:------ |
 | Emmanuel | 🟠 |
@@ -71,10 +71,10 @@ Tout sur GIT.
 | Sixtine | 🟠 |
 | Guillaume | 🟠 |
 | Patrick | 🟠 |
-| Corinne | 🟡 |
-| Ambre-iliana | 🟠 |
+| Corinne | 🟢 |
+| Ambre-iliana | 🟢 |
 | Sarah | 🟠 |
-| Clara | 🟠 |
+| Clara | 🟢 |
 
 
 ### Gestion Avancement du Projet
