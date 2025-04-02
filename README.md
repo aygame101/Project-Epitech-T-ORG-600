@@ -53,7 +53,8 @@ Tout sur GIT.
 #### Process d'envoie / réponse
 🔴 Pas envoyé  
 🟠 envoyé, en attente de réponse  
-🟢 la personne m'a dit qu'elle a répondu  
+🟢 la personne m'a dit qu'elle a répondu
+| Personnne | avancement | 
 | :--------- |:------ |
 | Lucile | 🔴 |
 | Thomas | 🔴 |
