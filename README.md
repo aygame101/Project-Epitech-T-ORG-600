@@ -56,7 +56,7 @@ Tout sur GIT.
 🟡 m'a répondu sur teams pour m'informer qu'il/elle va répondre  
 🟢 la personne m'a qu'elle a répondu (+ une augmentation du nombre de réponse dans le GDocs)  
 🟣 m'a laissé en vu  
-répondu au questionnaire : 3/18  
+répondu au questionnaire : 4/18  
 | Personnne | avancement | 
 | :--------- |:------ |
 | Emmanuel | 🟣 |
@@ -75,7 +75,7 @@ répondu au questionnaire : 3/18
 | Patrick | 🟠 |
 | Corinne | 🟢 |
 | Ambre-iliana | 🟢 |
-| Sarah | 🟣 |
+| Sarah | 🟢 |
 | Clara | 🟢 |
 
 
