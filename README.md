@@ -54,7 +54,7 @@ Tout sur GIT.
 🔴 Pas envoyé  
 🟠 envoyé, en attente de réponse  
 🟡 m'a répondu sur teams pour m'informer qu'il/elle va répondre
-🟢 la personne m'a dit qu'elle a répondu
+🟢 la personne a répondu
 | Personnne | avancement | 
 | :--------- |:------ |
 | Emmanuel | 🟠 |
