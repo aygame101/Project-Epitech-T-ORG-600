@@ -53,9 +53,9 @@ Tout sur GIT.
 #### Process d'envoie / réponse
 🔴 Pas envoyé  
 🟠 envoyé, en attente de réponse  
-🟡 m'a répondu sur teams pour m'informer qu'il/elle va répondre
-🟢 la personne m'a qu'elle a répondu (+ une augmentation du nombre de réponse dans le GDocs)
-🟣 m'a laissé en vu
+🟡 m'a répondu sur teams pour m'informer qu'il/elle va répondre  
+🟢 la personne m'a qu'elle a répondu (+ une augmentation du nombre de réponse dans le GDocs)  
+🟣 m'a laissé en vu  
 | Personnne | avancement | 
 | :--------- |:------ |
 | Emmanuel | 🟣 |
