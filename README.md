@@ -56,9 +56,9 @@ Tout sur GIT.
 🟡 m'a répondu sur teams pour m'informer qu'il/elle va répondre  
 🟢 la personne m'a qu'elle a répondu (+ une augmentation du nombre de réponse dans le GDocs)  
 🟣 m'a laissé en vu  
-🔵 personne relancé
-⚪️ pas au bureau
-répondu au questionnaire : 4/18  
+🔵 personne relancé  
+⚪️ pas au bureau  
+répondu au questionnaire : 4/19  
 | Personnne | avancement | 
 | :--------- |:------ |
 | Emmanuel | 🟣🔵 |
