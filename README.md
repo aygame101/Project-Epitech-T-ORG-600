@@ -61,14 +61,14 @@ Tout sur GIT.
 répondu au questionnaire : 4/19  
 | Personnne | avancement | 
 | :--------- |:------ |
-| Emmanuel | 🟣🔵 |
-| Lucile | 🟣🔵 |
-| Thomas | 🟣🔵 |
+| Emmanuel | 🟣🟣 |
+| Lucile | 🟣🟣 |
+| Thomas | 🟣🟣 |
 | Magali | 🟣🔵 |
 | Alexis | 🟣🔵 |
 | Romain | 🟣 |
 | Camy | 🟣 |
-| Mélinda | 🟣🔵 |
+| Mélinda | 🟣🟣 |
 | Antoine | 🟣 |
 | Matthieu | 🟠⚪️ |
 | Karine | 🟣🟡 |
