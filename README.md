@@ -58,14 +58,14 @@ Tout sur GIT.
 🟣 m'a laissé en vu  
 🔵 personne relancé  
 ⚪️ pas au bureau  
-répondu au questionnaire : 4/19  
+répondu au questionnaire : 6/19  
 | Personnne | avancement | 
 | :--------- |:------ |
 | Emmanuel | 🟣🟣 |
 | Lucile | 🟣🟣 |
 | Thomas | 🟣🟣 |
-| Magali | 🟣🔵 |
-| Alexis | 🟣🔵 |
+| Magali | 🟣🟢 |
+| Alexis | 🟣🟢 |
 | Romain | 🟣 |
 | Camy | 🟣 |
 | Mélinda | 🟣🟣 |
