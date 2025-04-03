@@ -101,5 +101,5 @@ répondu au questionnaire : 7/19
 | 🔴 To do | Un document expliquant pourquoi l'entreprise des étudiants pourrait se développer |
 | 🔴 To do | Un modèle d'organisation (ou un diagramme) montrant comment l'entreprise des élèves pourrait se développer. |
 | 🔴 To do | Un processus de prise de décision adapté à la nouvelle organisation est mis en place. |
-| 🔴 To do | Le projet est présenté de manière professionnelle à l'aide d'un support pertinent (diapositives et/ou démo) |
-| 🔴 To do | Les étudiants ont obtenu tous les résultats précédents |
+| 🟢 Done | Le projet est présenté de manière professionnelle à l'aide d'un support pertinent (diapositives et/ou démo) |
+| 🟠 In progress | Les étudiants ont obtenu tous les résultats précédents |
