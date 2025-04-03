@@ -58,7 +58,7 @@ Tout sur GIT.
 🟣 m'a laissé en vu  
 🔵 personne relancé  
 ⚪️ pas au bureau  
-répondu au questionnaire : 6/19  
+répondu au questionnaire : 7/19  
 | Personnne | avancement | 
 | :--------- |:------ |
 | Emmanuel | 🟣🟣 |
@@ -66,20 +66,20 @@ répondu au questionnaire : 6/19
 | Thomas | 🟣🟣 |
 | Magali | 🟣🟢 |
 | Alexis | 🟣🟢 |
-| Romain | 🟣 |
+| Romain | 🟣🔵 |
 | Camy | 🟣 |
 | Mélinda | 🟣🟣 |
-| Antoine | 🟣 |
+| Antoine | 🟣🔵 |
 | Matthieu | 🟠⚪️ |
 | Karine | 🟣🟡 |
 | Sixtine | 🟠⚪️ |
 | Guillaume | 🟣🔵 |
-| Patrick | 🟡🔵 |
+| Patrick | 🟡🟢 |
 | Corinne | 🟢 |
 | Ambre-iliana | 🟢 |
 | Sarah | 🟢 |
 | Clara | 🟢 |
-| Danny | 🟠 |
+| Danny | 🟣 |
 
 
 ### Gestion Avancement du Projet
