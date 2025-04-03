@@ -67,7 +67,7 @@ répondu au questionnaire : 7/19
 | Magali | 🟣🟢 |
 | Alexis | 🟣🟢 |
 | Romain | 🟣🔵 |
-| Camy | 🟣 |
+| Camy | 🟣🔵 |
 | Mélinda | 🟣🟣 |
 | Antoine | 🟣🔵 |
 | Matthieu | 🟠⚪️ |
