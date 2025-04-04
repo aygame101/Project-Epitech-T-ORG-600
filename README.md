@@ -58,13 +58,14 @@ Tout sur GIT.
 🟣 m'a laissé en vu  
 🔵 personne relancé  
 ⚪️ pas au bureau  
+⛔️ m'a répondu qu'il/elle ne répondra pas
 répondu au questionnaire : 11/19  
 | Personnne | avancement | 
 | :--------- |:------ |
-| Antoine | 🟣🔵 |
+| Antoine | 🟣🟣 |
 | Guillaume | 🟣🔵 |
 | Emmanuel | 🟣🟣 |
-| Danny | 🟣🔵 |
+| Danny | 🟣⛔️ |
 | Thomas | 🟣🟣 |
 | Romain | 🟣🟣 |
 | Corinne | 🟢 |
