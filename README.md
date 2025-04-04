@@ -61,26 +61,33 @@ Tout sur GIT.
 répondu au questionnaire : 11/19  
 | Personnne | avancement | 
 | :--------- |:------ |
-| Emmanuel | 🟣🟣 |
-| Lucile | 🟣🟢 |
-| Thomas | 🟣🟣 |
-| Magali | 🟣🟢 |
-| Alexis | 🟣🟢 |
-| Romain | 🟣🔵 |
-| Camy | 🟣🟢 |
-| Mélinda | 🟣🟢 |
 | Antoine | 🟣🔵 |
-| Matthieu | 🟠⚪️ |
-| Karine | 🟣🟢 |
-| Sixtine | 🟠⚪️ |
 | Guillaume | 🟣🔵 |
-| Patrick | 🟡🟢 |
+| Emmanuel | 🟣🟣 |
+| Danny | 🟣 |
+| Thomas | 🟣🟣 |
+
+| Romain | 🟣🟣 |
+
+
+
+
+
+
+
 | Corinne | 🟢 |
 | Ambre-iliana | 🟢 |
 | Sarah | 🟢 |
 | Clara | 🟢 |
-| Danny | 🟣 |
-
+| Patrick | 🟡🟢 |
+| Camy | 🟣🟢 |
+| Mélinda | 🟣🟢 |
+| Magali | 🟣🟢 |
+| Alexis | 🟣🟢 |
+| Lucile | 🟣🟢 |
+| Karine | 🟣🟢 |
+| Matthieu | 🟠⚪️ |
+| Sixtine | 🟠⚪️ |
 
 ### Gestion Avancement du Projet
 | Avancement | Tâches |
