@@ -64,17 +64,9 @@ répondu au questionnaire : 11/19
 | Antoine | 🟣🔵 |
 | Guillaume | 🟣🔵 |
 | Emmanuel | 🟣🟣 |
-| Danny | 🟣 |
+| Danny | 🟣🔵 |
 | Thomas | 🟣🟣 |
-
 | Romain | 🟣🟣 |
-
-
-
-
-
-
-
 | Corinne | 🟢 |
 | Ambre-iliana | 🟢 |
 | Sarah | 🟢 |
