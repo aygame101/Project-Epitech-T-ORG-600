@@ -54,7 +54,7 @@ Tout sur GIT.
 🔴 Pas envoyé  
 🟠 envoyé, en attente de réponse  
 🟡 m'a répondu sur teams pour m'informer qu'il/elle va répondre  
-🟢 la personne m'a dit qu'elle a répondu (+ une augmentation du nombre de réponse dans le GDocs)  
+🟢 la personne m'a dit qu'il/elle a répondu (+ une augmentation du nombre de réponse dans le GDocs)  
 🟣 m'a laissé en vu  
 🔵 personne relancé  
 ⚪️ pas au bureau  
@@ -86,14 +86,14 @@ répondu au questionnaire : 11/19
 | Avancement | Tâches |
 | :--------- |:------ |
 | 🟠 In progress | Les données recueillies permettent de visualiser l'organisation de l'entreprise |
-| 🔴 To do | La source des données est citée ET fiable (provenant des RH ou de la direction de l'entreprise). |
-| 🔴 To do | Les étudiants ont été proactifs dans la recherche des données |
+| 🟠 In progress | La source des données est citée ET fiable (provenant des RH ou de la direction de l'entreprise). |
+| 🟢 Done | Les étudiants ont été proactifs dans la recherche des données |
 | 🟢 Done | Les élèves produisent un organigramme de la direction de leur entreprise. |
 | 🟢 Done | Les élèves produisent un organigramme des départements de leur entreprise (au moins les plus proches) et de leurs interactions. |
-| 🔴 To do | Les élèves produisent un organigramme de leur équipe et des liens entre chaque membre. |
-| 🔴 To do | Une documentation expliquant le fonctionnement des différentes procédures de l'entreprise (onboarding, réunions, workflow, etc.) |
-| 🔴 To do | Les étudiants sont confrontés à plusieurs critères, tels que le rôle, la hiérarchie, le travail d'équipe, ... |
-| 🔴 To do | Les étudiants sont confrontés à plusieurs critères, tels que le type d'organisation, la centralisation, les processus de validation, ... |
+| 🟢 Done | Les élèves produisent un organigramme de leur équipe et des liens entre chaque membre. |
+| 🟠 In progress | Une documentation expliquant le fonctionnement des différentes procédures de l'entreprise (onboarding, réunions, workflow, etc.) |
+| 🟠 In progress | Les étudiants sont confrontés à plusieurs critères, tels que le rôle, la hiérarchie, le travail d'équipe, ... |
+| 🟠 In progress | Les étudiants sont confrontés à plusieurs critères, tels que le type d'organisation, la centralisation, les processus de validation, ... |
 | 🔴 To do | Les élèves identifient au moins deux dysfonctionnements (redondances, goulets d'étranglement, non-respect des procédures, etc.) |
 | 🔴 To do | Les élèves proposent au moins deux solutions pour les dysfonctionnements repérés. |
 | 🔴 To do | Les étudiants connaissent leur rôle au sein de l'entreprise et sont capables d'identifier la manière dont ils peuvent faire avancer leurs idées. |
