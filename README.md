@@ -85,21 +85,21 @@ répondu au questionnaire : 11/19
 ### Gestion Avancement du Projet
 | Avancement | Tâches |
 | :--------- |:------ |
-| 🟠 In progress | Les données recueillies permettent de visualiser l'organisation de l'entreprise |
-| 🟠 In progress | La source des données est citée ET fiable (provenant des RH ou de la direction de l'entreprise). |
+| 🟢 Done | Les données recueillies permettent de visualiser l'organisation de l'entreprise |
+| 🟢 Done | La source des données est citée ET fiable (provenant des RH ou de la direction de l'entreprise). |
 | 🟢 Done | Les étudiants ont été proactifs dans la recherche des données |
 | 🟢 Done | Les élèves produisent un organigramme de la direction de leur entreprise. |
 | 🟢 Done | Les élèves produisent un organigramme des départements de leur entreprise (au moins les plus proches) et de leurs interactions. |
 | 🟢 Done | Les élèves produisent un organigramme de leur équipe et des liens entre chaque membre. |
 | 🟠 In progress | Une documentation expliquant le fonctionnement des différentes procédures de l'entreprise (onboarding, réunions, workflow, etc.) |
-| 🟠 In progress | Les étudiants sont confrontés à plusieurs critères, tels que le rôle, la hiérarchie, le travail d'équipe, ... |
-| 🟠 In progress | Les étudiants sont confrontés à plusieurs critères, tels que le type d'organisation, la centralisation, les processus de validation, ... |
-| 🔴 To do | Les élèves identifient au moins deux dysfonctionnements (redondances, goulets d'étranglement, non-respect des procédures, etc.) |
-| 🔴 To do | Les élèves proposent au moins deux solutions pour les dysfonctionnements repérés. |
+| 🟢 Done | Les étudiants sont confrontés à plusieurs critères, tels que le rôle, la hiérarchie, le travail d'équipe, ... |
+| 🟢 Done | Les étudiants sont confrontés à plusieurs critères, tels que le type d'organisation, la centralisation, les processus de validation, ... |
+| 🟢 Done | Les élèves identifient au moins deux dysfonctionnements (redondances, goulets d'étranglement, non-respect des procédures, etc.) |
+| 🟢 Done| Les élèves proposent au moins deux solutions pour les dysfonctionnements repérés. |
 | 🔴 To do | Les étudiants connaissent leur rôle au sein de l'entreprise et sont capables d'identifier la manière dont ils peuvent faire avancer leurs idées. |
-| 🔴 To do | Les élèves partagent leurs analyses et tirent des conclusions communes, en soulignant les forces et les faiblesses de chaque organisation. |
-| 🔴 To do | Un document expliquant pourquoi l'entreprise des étudiants pourrait se développer |
-| 🔴 To do | Un modèle d'organisation (ou un diagramme) montrant comment l'entreprise des élèves pourrait se développer. |
-| 🔴 To do | Un processus de prise de décision adapté à la nouvelle organisation est mis en place. |
+| 🟢 Done | Les élèves partagent leurs analyses et tirent des conclusions communes, en soulignant les forces et les faiblesses de chaque organisation. |
+| 🟠 In progress | Un document expliquant pourquoi l'entreprise des étudiants pourrait se développer |
+| 🟠 In progress | Un modèle d'organisation (ou un diagramme) montrant comment l'entreprise des élèves pourrait se développer. |
+| 🟠 In progress | Un processus de prise de décision adapté à la nouvelle organisation est mis en place. |
 | 🟢 Done | Le projet est présenté de manière professionnelle à l'aide d'un support pertinent (diapositives et/ou démo) |
 | 🟠 In progress | Les étudiants ont obtenu tous les résultats précédents |
